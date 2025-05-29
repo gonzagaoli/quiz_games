@@ -1,0 +1,1 @@
+alert("olá meu consagrado, seja bem vindo ao site gênio quiz.")
