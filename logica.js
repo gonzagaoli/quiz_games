@@ -1,4 +1,4 @@
-Javascript:
+
 listaPerguntas = [
 {
   pergunta: "Qual o maior ser vivo?",
